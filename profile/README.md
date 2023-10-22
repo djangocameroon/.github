@@ -11,7 +11,7 @@ New members are always welcome! We provide resources and support for developers 
 - Find project collaborators
 - Gain hands-on experience
 - Give back by mentoring others
-- To join our community, check out our website [https://djangocameroon.site] and join our mailing list [add link] to hear about upcoming events and opportunities. You can also follow us from our profile.
+- To join our community, check out our website [djangocameroon.site](https://djangocameroon.site) and join our mailing list [add link] to hear about upcoming events and opportunities. You can also follow us from our profile.
 
 # Contributing
 Django Cameroon is an open community powered by people like you! We welcome contributions in the form of:
